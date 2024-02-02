@@ -1,0 +1,22 @@
+{
+  "1": {
+    "lang": "ru",
+    "login": "ivanov",
+    "name": "\u0418\u0432\u0430\u043d",
+    "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432",
+    "email": "a@a.a",
+    "callback": "70000000000",
+    "promos": []
+  },
+  "1900878938": {
+    "lang": "ru",
+    "login": "a",
+    "name": "a",
+    "last_name": "a",
+    "email": "a@a.a",
+    "callback": "78888888888",
+    "promos": [
+      "a"
+    ]
+  }
+}
